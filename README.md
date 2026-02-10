@@ -55,7 +55,7 @@ The dashboard is divided into three sections:
 # KEY LEARNINGS
 - Translating data insights into business actions
 - Designing dashboards with executive storytelling
-- Understanding trade-offs between revenue and retention
+- Understanding trade-offs between revenue and retention.
 
 # FUTURE ENHANCEMENTS
 - Predictive churn modeling using ML
