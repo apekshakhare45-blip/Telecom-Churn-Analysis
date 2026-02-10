@@ -52,6 +52,12 @@ The dashboard is divided into three sections:
 2. Why are they churning? – Pricing, tenure, and service insights
 3. What should we do? – Revenue impact and action-focused views
 
+# TOOLS & TECHNOLOGIES USED
+- SQL (MySQL) – Data analysis & business queries
+- Python (Pandas, NumPy, Matplotlib) – Data cleaning & EDA
+- Power BI – Interactive dashboard & storytelling
+- GitHub – Version control & project documentation
+
 # KEY LEARNINGS
 - Translating data insights into business actions
 - Designing dashboards with executive storytelling
